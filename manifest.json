@@ -1,0 +1,38 @@
+{
+  "name": "Diamond Purple Theme",
+  "description": "A simple and clear dark clean purpled theme for Chrome.",
+  "manifest_version": 3,
+  "version": "1.0",
+  "author": "HerIsDia",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png",
+    "256": "icons/icon256.png"
+  },
+  "theme": {
+    "colors": {
+      "omnibox_text": [182, 155, 201],
+      "omnibox_background": [28, 3, 87],
+      "background_tab": [71, 47, 102],
+      "background_tab_inactive": [12, 2, 46],
+      "bookmark_text": [182, 155, 201],
+      "frame": [27, 3, 61],
+      "frame_inactive": [24, 7, 48],
+      "tab_text": [205, 199, 242],
+      "tab_background_text": [151, 149, 163],
+      "tab_background_text_inactive": [160, 147, 171],
+      "toolbar": [44, 4, 89],
+      "toolbar_button_icon": [205, 199, 242],
+      "toolbar_text": [205, 199, 242],
+      "ntp_background": [182, 155, 201],
+      "ntp_text": [20, 9, 48]
+    },
+    "tints": {
+      "buttons": [0.76, 0.3, 0.7],
+      "frame": [0.76, 0.3, 0.7],
+      "frame_inactive": [0.76, 0.3, 0.7],
+      "background_tab": [0.76, 0.3, 0.7]
+    }
+  }
+}
