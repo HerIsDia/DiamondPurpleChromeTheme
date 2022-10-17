@@ -2,11 +2,13 @@
   "name": "Diamond Purple Theme",
   "description": "A simple and clear dark clean purpled theme for Chrome.",
   "manifest_version": 3,
-  "version": "1.0",
+  "version": "1.0.2",
   "author": "HerIsDia",
   "icons": {
     "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
     "48": "icons/icon48.png",
+    "96": "icons/icon96.png",
     "128": "icons/icon128.png",
     "256": "icons/icon256.png"
   },
